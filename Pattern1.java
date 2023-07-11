@@ -10,7 +10,7 @@ public class Pattern1 {
 					System.out.print("*");
 				}else {
 					System.out.print(" ");
-				} 
+				} //Git Integration Testing
 			}
 			System.out.print(" ");
 			for(int j=0;j<n;j++) {//N
